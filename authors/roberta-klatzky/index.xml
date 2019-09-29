@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberta Klatzky | </title>
+    <link>https://Sahbaap.github.io/authors/roberta-klatzky/</link>
+      <atom:link href="https://Sahbaap.github.io/authors/roberta-klatzky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberta Klatzky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Sahbaap.github.io/img/icon-192.png</url>
+      <title>Roberta Klatzky</title>
+      <link>https://Sahbaap.github.io/authors/roberta-klatzky/</link>
+    </image>
+    
+    <item>
+      <title>Torque Contribution to Haptic Rendering of Virtual Textures</title>
+      <link>https://Sahbaap.github.io/publication/textureperception_toh17/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/publication/textureperception_toh17/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/c2W4pEM7djw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Short Summary:&lt;/strong&gt; Novel 6D haptic feedback (both force and torque) strageties were developed to render virtual textures with high fidelity and human perception of such textures was analyzed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

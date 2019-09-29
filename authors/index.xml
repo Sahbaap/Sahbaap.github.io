@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | </title>
     <link>https://Sahbaap.github.io/authors/</link>
       <atom:link href="https://Sahbaap.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,13 +13,75 @@
     </image>
     
     <item>
+      <title>**Sahba Aghajani Pedram**</title>
+      <link>https://Sahbaap.github.io/authors/sahba-aghajani-pedram/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/sahba-aghajani-pedram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chagyeob Shin</title>
+      <link>https://Sahbaap.github.io/authors/chagyeob-shin/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/chagyeob-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Dutson</title>
+      <link>https://Sahbaap.github.io/authors/erik-dutson/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/erik-dutson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Rosen</title>
+      <link>https://Sahbaap.github.io/authors/jacob-rosen/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/jacob-rosen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ji Ma</title>
+      <link>https://Sahbaap.github.io/authors/ji-ma/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/ji-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Ferguson</title>
+      <link>https://Sahbaap.github.io/authors/peter-ferguson/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/peter-ferguson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Berkelman</title>
+      <link>https://Sahbaap.github.io/authors/peter-berkelman/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/peter-berkelman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberta Klatzky</title>
+      <link>https://Sahbaap.github.io/authors/roberta-klatzky/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/roberta-klatzky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://Sahbaap.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD candidate at &lt;a href=&#34;http://engineering.ucla.edu/&#34;&gt;UCLA&lt;/a&gt;, working with
-&lt;a href=&#34;http://bionics.seas.ucla.edu/people/rosen/jacob_rosen.html&#34;&gt;Dr. Jacob Rosen&lt;/a&gt; in the
-&lt;a href=&#34;http://bionics.seas.ucla.edu/&#34;&gt;Bionic Lab&lt;/a&gt;. My PhD research focuses on developing novel estimation, control, motion planning and machine/robot learning algorithms to introduce
+      <description>&lt;p&gt;I am a last year Ph.D. candidate at Mechanical &amp;amp; Aerospace Engineering at UCLA, majoring in Systems, Controls, and Robotics. For my Ph.D. research, I work with Prof. Jacob Rosen in the Bionic Lab. My research focuses on developing novel estimation, control, motion planning and machine/robot learning algorithms to introduce
 unpresedented robotic capabilities into various surgical interventions. In particular, I am exploring:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -28,6 +90,12 @@ unpresedented robotic capabilities into various surgical interventions. In parti
 &lt;li&gt;Accurate and high frequency position estimation of a snake-like continnum manipular for total hip replacement surgery.&lt;/li&gt;
 &lt;li&gt;Estimation of surgical probe&amp;rsquo;s tip postion for lens removal automation in cataract surgery.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;!--
+{% I am a PhD candidate at &lt;a href=&#34;http://engineering.ucla.edu/&#34;&gt;UCLA&lt;/a&gt;, working with 
+&lt;a href=&#34;http://bionics.seas.ucla.edu/people/rosen/jacob_rosen.html&#34;&gt;Dr. Jacob Rosen&lt;/a&gt; in the 
+&lt;a href=&#34;http://bionics.seas.ucla.edu/&#34;&gt;Bionic Lab&lt;/a&gt;. My PhD research focuses on developing novel estimation, control, motion planning and machine/robot learning algorithms to introduce
+unpresedented robotic capabilities into various surgical interventions. In particular, I am exploring: %} --&gt;
 </description>
     </item>
     
