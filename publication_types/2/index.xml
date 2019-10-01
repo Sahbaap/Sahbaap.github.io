@@ -5,12 +5,28 @@
     <link>https://Sahbaap.github.io/publication_types/2/</link>
       <atom:link href="https://Sahbaap.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://Sahbaap.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>New paper submitted to TR-O</title>
+      <link>https://Sahbaap.github.io/news/news2/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/news/news2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper submitted to TR-O</title>
+      <link>https://Sahbaap.github.io/news/news3/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/news/news3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compact teleoperated laparoendoscopic single‐site robotic surgical system: Kinematics, control, and operation</title>
