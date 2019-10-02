@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mehran Armand | </title>
-    <link>https://Sahbaap.github.io/authors/mehran-armand/</link>
-      <atom:link href="https://Sahbaap.github.io/authors/mehran-armand/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mehran Armand</description>
+    <title>Russell H. Taylor | </title>
+    <link>https://Sahbaap.github.io/authors/russell-h.-taylor/</link>
+      <atom:link href="https://Sahbaap.github.io/authors/russell-h.-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Russell H. Taylor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
-      <title>Mehran Armand</title>
-      <link>https://Sahbaap.github.io/authors/mehran-armand/</link>
+      <title>Russell H. Taylor</title>
+      <link>https://Sahbaap.github.io/authors/russell-h.-taylor/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://Sahbaap.github.io/publication/scade_tro19/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/publication/scade_tro19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large Deflection Shape Sensing of a Continuum Manipulator for MinimallyInvasive Surgery</title>
-      <link>https://Sahbaap.github.io/publication/fbgshapesensing_icra15/</link>
-      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/publication/fbgshapesensing_icra15/</guid>
       <description></description>
     </item>
     

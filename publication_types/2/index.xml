@@ -5,12 +5,28 @@
     <link>https://Sahbaap.github.io/publication_types/2/</link>
       <atom:link href="https://Sahbaap.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://Sahbaap.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>New paper accepted to IEEE Transactions on Robotics</title>
+      <link>https://Sahbaap.github.io/news/news3/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/news/news3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCADE: Simultaneous Sensor Calibration and Deformation Estimation of FBG-Equipped Unmodeled Continuum Manipulators</title>
+      <link>https://Sahbaap.github.io/publication/scade_tro19/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/publication/scade_tro19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New paper submitted to T-RO</title>
@@ -21,10 +37,10 @@
     </item>
     
     <item>
-      <title>New paper submitted to T-RO</title>
-      <link>https://Sahbaap.github.io/news/news3/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/news/news3/</guid>
+      <title>Torque Contribution to Haptic Rendering of Virtual Textures</title>
+      <link>https://Sahbaap.github.io/publication/textureperception_toh17/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/publication/textureperception_toh17/</guid>
       <description></description>
     </item>
     
@@ -33,14 +49,6 @@
       <link>https://Sahbaap.github.io/publication/3dprintedsingleport_ijmr17/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/publication/3dprintedsingleport_ijmr17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torque Contribution to Haptic Rendering of Virtual Textures</title>
-      <link>https://Sahbaap.github.io/publication/textureperception_toh17/</link>
-      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/publication/textureperception_toh17/</guid>
       <description></description>
     </item>
     
