@@ -145,14 +145,15 @@
       <link>https://Sahbaap.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a last year Ph.D. candidate at Mechanical &amp;amp; Aerospace Engineering at UCLA, majoring in Systems, Controls, and Robotics. For my Ph.D. research, I work with Prof. Jacob Rosen in the Bionic Lab. My research focuses on developing novel estimation, control, motion planning and machine/robot learning algorithms to introduce
+      <description>&lt;p&gt;I am a last year Ph.D. candidate at Mechanical &amp;amp; Aerospace Engineering at UCLA, majoring in Systems, Controls, and Robotics. For my Ph.D. research, I work with Prof. Jacob Rosen in the Bionic Lab.
+My research focuses on developing novel estimation, control, motion planning and machine/robot learning algorithms to introduce
 unpresedented robotic capabilities into various surgical interventions. In particular, I am exploring:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Automation of surgical subtasks including suturing, and tissue manipulation in soft tissue surgery.&lt;/li&gt;
-&lt;li&gt;Improving postion control accuracy of cable-driven surgical robots for automation purposes in soft tissue surgery.&lt;/li&gt;
-&lt;li&gt;Accurate and high frequency position estimation of a snake-like continuum manipular for total hip replacement surgery.&lt;/li&gt;
-&lt;li&gt;Estimation of surgical probe&amp;rsquo;s tip postion for lens removal automation in cataract surgery.&lt;/li&gt;
+&lt;li&gt;Accurate postion control of cable-driven surgical robots for automation purposes in soft tissue surgery.&lt;/li&gt;
+&lt;li&gt;Real-time shape estimation of a snake-like continuum manipular for total hip replacement surgery.&lt;/li&gt;
+&lt;li&gt;Fast position estimation of a surgical probe in automated cataract surgery.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!--
