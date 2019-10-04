@@ -5,7 +5,7 @@
     <link>https://Sahbaap.github.io/authors/</link>
       <atom:link href="https://Sahbaap.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sahba Aghajani Pedram</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
-      <title>**Sahba Aghajani Pedram**</title>
-      <link>https://Sahbaap.github.io/authors/sahba-aghajani-pedram/</link>
+      <title>&lt;span style=&#39;color:#02B838&#39;&gt;Sahba Aghajani Pedram &amp;ast;</title>
+      <link>https://Sahbaap.github.io/authors/span-stylecolor#02b838sahba-aghajani-pedram-ast/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/span-stylecolor#02b838sahba-aghajani-pedram-ast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farshid Alambeigi &amp;ast;</title>
+      <link>https://Sahbaap.github.io/authors/farshid-alambeigi-ast/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/farshid-alambeigi-ast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ioan Iulian Iordachita</title>
+      <link>https://Sahbaap.github.io/authors/ioan-iulian-iordachita/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/ioan-iulian-iordachita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Rosen</title>
+      <link>https://Sahbaap.github.io/authors/jacob-rosen/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/jacob-rosen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason L. Speyer</title>
+      <link>https://Sahbaap.github.io/authors/jason-l.-speyer/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/jason-l.-speyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehran Armand</title>
+      <link>https://Sahbaap.github.io/authors/mehran-armand/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/mehran-armand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russell H. Taylor</title>
+      <link>https://Sahbaap.github.io/authors/russell-h.-taylor/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/russell-h.-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;span style=&#39;color:#02B838&#39;&gt;Sahba Aghajani Pedram</title>
+      <link>https://Sahbaap.github.io/authors/span-stylecolor#02b838sahba-aghajani-pedram/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/authors/sahba-aghajani-pedram/</guid>
+      <guid>https://Sahbaap.github.io/authors/span-stylecolor#02b838sahba-aghajani-pedram/</guid>
       <description></description>
     </item>
     
@@ -37,14 +93,6 @@
     </item>
     
     <item>
-      <title>Jacob Rosen</title>
-      <link>https://Sahbaap.github.io/authors/jacob-rosen/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/authors/jacob-rosen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ji Ma</title>
       <link>https://Sahbaap.github.io/authors/ji-ma/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
@@ -61,17 +109,9 @@
     </item>
     
     <item>
-      <title>Oran Jacob Isaac‐Lowry</title>
-      <link>https://Sahbaap.github.io/authors/oran-jacob-isaaclowry/</link>
-      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/authors/oran-jacob-isaaclowry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peter Berkelman</title>
       <link>https://Sahbaap.github.io/authors/peter-berkelman/</link>
-      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/authors/peter-berkelman/</guid>
       <description></description>
     </item>
@@ -79,8 +119,16 @@
     <item>
       <title>Roberta Klatzky</title>
       <link>https://Sahbaap.github.io/authors/roberta-klatzky/</link>
-      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/authors/roberta-klatzky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oran Jacob Isaac‐Lowry</title>
+      <link>https://Sahbaap.github.io/authors/oran-jacob-isaaclowry/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/authors/oran-jacob-isaaclowry/</guid>
       <description></description>
     </item>
     
@@ -121,14 +169,6 @@
       <link>https://Sahbaap.github.io/authors/iulian-iordachita/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/authors/iulian-iordachita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mehran Armand</title>
-      <link>https://Sahbaap.github.io/authors/mehran-armand/</link>
-      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/authors/mehran-armand/</guid>
       <description></description>
     </item>
     
