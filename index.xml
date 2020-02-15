@@ -5,7 +5,7 @@
     <link>https://Sahbaap.github.io/</link>
       <atom:link href="https://Sahbaap.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sahba Aghajani Pedram</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Sahba Aghajani Pedram</copyright><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Sahbaap.github.io/img/icon-192.png</url>
       <title></title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>New paper accepted to IEEE Transactions on Robotics</title>
+      <title>New paper accepted to 2020 ICRA</title>
+      <link>https://Sahbaap.github.io/news/news1/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/news/news1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper submitted to IEEE Transactions on Robotics</title>
       <link>https://Sahbaap.github.io/news/news3/</link>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/news/news3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper accepted to IEEE Transactions on Robotics</title>
+      <link>https://Sahbaap.github.io/news/news4/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Sahbaap.github.io/news/news4/</guid>
       <description></description>
     </item>
     
@@ -29,15 +45,7 @@
     </item>
     
     <item>
-      <title>Two new papers submitted to ICRA</title>
-      <link>https://Sahbaap.github.io/news/news1/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://Sahbaap.github.io/news/news1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New paper submitted to T-RO</title>
+      <title>New paper submitted to IEEE Transactions on Robotics</title>
       <link>https://Sahbaap.github.io/news/news2/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://Sahbaap.github.io/news/news2/</guid>
